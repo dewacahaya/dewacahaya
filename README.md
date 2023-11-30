@@ -3,7 +3,7 @@
 
 - 🌱 I am currently studying at **INSTIKI**
 
-- 💬 Wanna ask? Let's talk to **https://instagram.com/dewacahaya.\_ (24/7 active)**
+- 💬 Wanna ask? Let's talk to **https://instagram.com/dewacahaya._ (24/7 active)**
 
 - 📫 How to reach me? **https://linktr.ee/imdecay**
 
