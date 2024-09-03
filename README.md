@@ -1,9 +1,9 @@
 <h1 align="center">Hi👋, I'm Dewa Cahaya a.k.a Decay</h1>
-<h3 align="center">I'm just a human being who is like dust in this world🌏</h3>
+<h3 align="center">Not A Programmer</h3>
 
 - 🌱 I am currently studying at **INSTIKI**
 
-- 💬 Wanna ask? Let's talk to **<a href="https://instagram.com/dewacahaya._">Here</a>(24/7 active)**
+- 💬 Wanna ask? Let's talk to **<a href="https://instagram.com/dec4yyy._">Here</a>(24/7 active)**
 
 - 📫 How to reach me? **<a href="https://linktr.ee/imdecay">Here</a>**
 
