@@ -26,7 +26,7 @@
 **Backend & Database**  
 `PHP` `Laravel` `Node.js` `Firebase` `MongoDB` `MySQL`
 
-**UI/UX**
+**UI/UX**  
 `Design Thinking` `User-centered Design` `Creative Thinking`
 
 **Tools**  
@@ -36,14 +36,14 @@
 
 ### 🚀 Featured Projects
 
-- **[Project Name 1]** – Short description of what it does and the tech used.  
-  [Live Demo](link) | [GitHub](link)
+- **Meowlingo - Japanese Learning WebApp** –  Providing the **back-end** using Laravel and the Google Gemini API to serve as a real-time AI-powered quiz generator and checker.
+  [GitHub](https://github.com/dewacahaya/duolingo_clone_be.git)
 
-- **[Project Name 2]** – Short description.  
-  [Live Demo](link) | [GitHub](link)
+- **QR Ordering System** – Providing a **front-end** built with Vue.js, featuring real-time notifications powered by Pusher.js and Laravel Echo (on the back-end).
+  [GitHub](https://github.com/dewacahaya/qr-dinein-system-fe.git)
 
-- **[Project Name 3]** – Short description.  
-  [Live Demo](link) | [GitHub](link)
+- **Outfit Online Web Store** – Providing a **full-stack web** using Vue.js and NoSQL (Firebase) as the database. Powered by an auth system, 'favorites' and a useful search engine.
+  [Live Demo](https://vintage-shop-marketplace.vercel.app/) | [GitHub](https://github.com/dewacahaya/vintage-shop-marketplace.git)
 
 ---
 
